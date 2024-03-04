@@ -1,4 +1,4 @@
-#Temporary Email via API
+## Temporary Email via API
 
 Temp email API works by generating a temporary email address that you can use for a specific purpose.
 
