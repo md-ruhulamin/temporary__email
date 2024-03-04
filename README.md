@@ -1,6 +1,7 @@
-# temp_email
+#Temporary Email via API
 
-A new Flutter project.
+Temp email API works by generating a temporary email address that you can use for a specific purpose.
+
 
 ## Getting Started
 
