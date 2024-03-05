@@ -8,7 +8,7 @@ Temporary email addresses are commonly used for signing up for new accounts or r
 By using temporary email addresses, users can receive emails without revealing their personal or permanent email addresses. These temporary emails usually have a limited lifespan, which helps protect privacy and avoid spam in online activities.
 
 
-<img src="[https://github.com/md-ruhulamin/temporary__email/blob/main/IMG_8925.JPG](https://github.com/md-ruhulamin/temporary__email/blob/main/temp_email_figma.png)">
+<img src="https://github.com/md-ruhulamin/temporary__email/blob/main/temp_email_figma.png">
 
 
 
