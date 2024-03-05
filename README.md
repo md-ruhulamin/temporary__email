@@ -7,11 +7,12 @@ Temporary email addresses are commonly used for signing up for new accounts or r
 By using temporary email addresses, users can receive emails without revealing their personal or permanent email addresses. These temporary emails usually have a limited lifespan, which helps protect privacy and avoid spam in online activities. 
 
 #### Tool We have used to build this app
-1. [ GetX](#section-1)
-2. [Section 2](#section-2)
-3. [Section 3](#section-3)
+1. [ GetX](https://app.diagrams.net/#G1W9HYv19tjLP6FrieXZtUEdeYvrzdZrr2#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
+2. [Shared preferences](#section-2)
+3. [Google fonts](#section-3)
+4. [http](#section-3)
 
-<b>Shared preferences </b>
+
 ##### Here we have shown the list of screenshots of our temp_email application.
 1) Splash Screen
 2) Domain List Screen
