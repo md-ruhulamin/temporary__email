@@ -13,7 +13,7 @@ By using temporary email addresses, users can receive emails without revealing t
 4. [http](https://pub.dev/packages/http)
 
 
-##### Here we have shown the list of screenshots of our temp_email application.
+### Here we have shown the list of screenshots of our temp_email application.
 1) Splash Screen
 2) Domain List Screen
 3) Create Email
@@ -26,7 +26,7 @@ By using temporary email addresses, users can receive emails without revealing t
 ##### Always show success and failed toast  so that users can easily use the system.
 <img src="https://github.com/md-ruhulamin/temporary__email/blob/main/failed_screen_figma.png">
 
-
+## Architecture of our system
 ##### This design  explains our systems architecture a lot and anyone understands our systems working process. This design is very helpful when anyone tries to implement the  system.
 <img src="https://github.com/md-ruhulamin/temporary__email/blob/responsivness/temp%20email.drawio%20(1).png">
 
