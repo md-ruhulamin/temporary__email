@@ -1,13 +1,16 @@
 ### Temporary Email via API
 
 A temporary email application works by generating a temporary email address that you can use for a specific purpose. such as:
-###### Verification 
+<b> Verification</b> 
 Temporary email addresses are commonly used for signing up for new accounts or resetting passwords. Users can generate a temporary email address for verification purposes instead of using a permanent one.
-##### Privacy and Spam Prevention
+<b> Privacy and Spam Prevention</b> 
 By using temporary email addresses, users can receive emails without revealing their personal or permanent email addresses. These temporary emails usually have a limited lifespan, which helps protect privacy and avoid spam in online activities. 
 
 #### Tool We have used to build this app
-<b>GetX </b>
+1. [ GetX](#section-1)
+2. [Section 2](#section-2)
+3. [Section 3](#section-3)
+
 <b>Shared preferences </b>
 ##### Here we have shown the list of screenshots of our temp_email application.
 1) Splash Screen
