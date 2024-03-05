@@ -5,8 +5,12 @@ A temporary email application works by generating a temporary email address that
 Temporary email addresses are commonly used for signing up for new accounts or resetting passwords. Users can generate a temporary email address for verification purposes instead of using a permanent one.
 ### Privacy and Spam Prevention
 By using temporary email addresses, users can receive emails without revealing their personal or permanent email addresses. These temporary emails usually have a limited lifespan, which helps protect privacy and avoid spam in online activities.
-###### Here we have shown the list of screenshots of our temp_email application.
-
+##### Here we have shown the list of screenshots of our temp_email application.
+1) Splash Screen
+2) Domain List Screen
+3) Create Email
+4) Login Screen
+5) Email Inbox
 <img src="https://github.com/md-ruhulamin/temporary__email/blob/main/temp_email_figma.png">
 
 <img src="https://github.com/md-ruhulamin/temporary__email/blob/main/failed_screen_figma.png">
