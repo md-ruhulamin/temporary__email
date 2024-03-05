@@ -7,10 +7,10 @@ Temporary email addresses are commonly used for signing up for new accounts or r
 By using temporary email addresses, users can receive emails without revealing their personal or permanent email addresses. These temporary emails usually have a limited lifespan, which helps protect privacy and avoid spam in online activities. 
 
 #### Tool We have used to build this app
-1. [ GetX](https://app.diagrams.net/#G1W9HYv19tjLP6FrieXZtUEdeYvrzdZrr2#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
-2. [Shared preferences](#section-2)
-3. [Google fonts](#section-3)
-4. [http](#section-3)
+1. [ GetX](https://pub.dev/packages/get)
+2. [Shared preferences](https://pub.dev/packages/shared_preferences)
+3. [Google fonts](https://pub.dev/packages/google_fonts)
+4. [http](https://pub.dev/packages/http)
 
 
 ##### Here we have shown the list of screenshots of our temp_email application.
@@ -28,5 +28,5 @@ By using temporary email addresses, users can receive emails without revealing t
 
 
 ##### This design  explains our systems architecture a lot and anyone understands our systems working process. This design is very helpful when anyone tries to implement the  system.
-<img src="https://github.com/md-ruhulamin/temporary__email/blob/main/temp%20email.drawio.png">
+<img src="https://github.com/md-ruhulamin/temporary__email/blob/responsivness/temp%20email.drawio%20(1).png">
 
